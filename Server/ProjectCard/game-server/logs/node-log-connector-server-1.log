@@ -1,0 +1,1160 @@
+[2013-06-30 13:22:13.076] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-06-30 13:22:13.404] [INFO] console - info: 'socket.io started'
+[2013-06-30 13:22:13.414] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-06-30 13:22:13.438] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-06-30 13:22:13.440] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-06-30 14:06:22.321] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-06-30 14:06:22.702] [INFO] console - info: 'socket.io started'
+[2013-06-30 14:06:22.713] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-06-30 14:06:22.738] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-06-30 14:06:22.739] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-06-30 14:10:16.175] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-06-30 14:10:16.549] [INFO] console - info: 'socket.io started'
+[2013-06-30 14:10:16.559] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-06-30 14:10:16.586] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-06-30 14:10:16.587] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-06-30 14:41:16.304] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-06-30 14:41:16.702] [INFO] console - info: 'socket.io started'
+[2013-06-30 14:41:16.714] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-06-30 14:41:16.740] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-06-30 14:41:16.741] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-06-30 17:41:36.135] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-06-30 17:41:36.756] [INFO] console - info: 'socket.io started'
+[2013-06-30 17:41:36.768] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-06-30 17:41:36.794] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-06-30 17:41:36.796] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-06-30 17:47:47.764] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-06-30 17:47:48.147] [INFO] console - info: 'socket.io started'
+[2013-06-30 17:47:48.162] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-06-30 17:47:48.188] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-06-30 17:47:48.190] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-06-30 17:48:57.878] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-06-30 17:48:58.240] [INFO] console - info: 'socket.io started'
+[2013-06-30 17:48:58.251] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-06-30 17:48:58.275] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-06-30 17:48:58.276] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-06-30 18:30:36.438] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-06-30 18:30:36.805] [INFO] console - info: 'socket.io started'
+[2013-06-30 18:30:36.816] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-06-30 18:30:36.841] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-06-30 18:30:36.842] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-06-30 19:12:35.809] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-06-30 19:12:36.193] [INFO] console - info: 'socket.io started'
+[2013-06-30 19:12:36.257] [ERROR] console -  Caught exception: Error: Cannot find module 'bson'
+    at Function.Module._resolveFilename (module.js:338:15)
+    at Function.Module._load (module.js:280:25)
+    at Module.require (module.js:362:17)
+    at require (module.js:378:17)
+    at Object.<anonymous> (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/mongodb/collection.js:10:16)
+    at Module._compile (module.js:449:26)
+    at Object.Module._extensions..js (module.js:467:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:362:17)
+[2013-06-30 19:16:56.835] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-06-30 19:16:57.313] [INFO] console - info: 'socket.io started'
+[2013-06-30 19:16:57.347] [ERROR] console -  Caught exception: Error: Cannot find module 'bson'
+    at Function.Module._resolveFilename (module.js:338:15)
+    at Function.Module._load (module.js:280:25)
+    at Module.require (module.js:362:17)
+    at require (module.js:378:17)
+    at Object.<anonymous> (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/mongodb/collection.js:10:16)
+    at Module._compile (module.js:449:26)
+    at Object.Module._extensions..js (module.js:467:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:362:17)
+[2013-06-30 19:17:59.223] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-06-30 19:17:59.598] [INFO] console - info: 'socket.io started'
+[2013-06-30 19:17:59.721] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-06-30 19:17:59.752] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-06-30 19:17:59.753] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-06-30 19:18:14.998] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-06-30 19:18:15.482] [INFO] console - info: 'socket.io started'
+[2013-06-30 19:18:15.677] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-06-30 19:18:15.727] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-06-30 19:18:15.729] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-06-30 19:18:50.182] [ERROR] console -  Caught exception: Error: no callback function provided
+    at Function.MongoClient.connect (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/mongodb/mongo_client.js:161:30)
+    at Handler.entry (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:20:14)
+    at Service.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+[2013-07-01 09:39:32.334] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 09:39:33.021] [INFO] console - info: 'socket.io started'
+[2013-07-01 09:39:33.274] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 09:39:33.307] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 09:39:33.309] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 10:14:20.349] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 10:14:20.721] [INFO] console - info: 'socket.io started'
+[2013-07-01 10:14:20.841] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 10:14:20.875] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 10:14:20.876] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 10:14:47.451] [ERROR] console -  Caught exception: TypeError: object is not a function
+    at Handler.entry (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:21:18)
+    at Service.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:206:15)
+[2013-07-01 10:15:02.229] [ERROR] console -  Caught exception: TypeError: object is not a function
+    at Handler.entry (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:21:18)
+    at Service.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:206:15)
+[2013-07-01 10:15:29.357] [ERROR] console -  Caught exception: TypeError: object is not a function
+    at Handler.entry (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:21:18)
+    at Service.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:206:15)
+[2013-07-01 10:15:44.984] [ERROR] console -  Caught exception: TypeError: object is not a function
+    at Handler.entry (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:21:18)
+    at Service.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:206:15)
+[2013-07-01 10:19:11.226] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 10:19:11.613] [INFO] console - info: 'socket.io started'
+[2013-07-01 10:19:11.616] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:769:11)
+    at Server._listen2 (net.js:909:14)
+    at listen (net.js:936:10)
+    at Server.listen (net.js:985:5)
+    at Object.exports.listen (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:21)
+    at pro.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:17)
+    at pro.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at module.exports.optComponents (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19)
+    at async.eachSeries.iterate (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+[2013-07-01 10:19:11.743] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 10:19:11.774] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 10:19:11.776] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:769:11)
+    at Server._listen2 (net.js:909:14)
+    at listen (net.js:936:10)
+    at Server.listen (net.js:985:5)
+    at Connector.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/connectors/hybridconnector.js:72:20)
+    at Component.afterStart (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:61:18)
+    at module.exports.optComponents (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19)
+    at async.eachSeries.iterate (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+    at process.startup.processNextTick.process._tickCallback (node.js:244:9)
+[2013-07-01 10:19:11.776] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 10:19:30.356] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 10:19:30.723] [INFO] console - info: 'socket.io started'
+[2013-07-01 10:19:30.726] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:769:11)
+    at Server._listen2 (net.js:909:14)
+    at listen (net.js:936:10)
+    at Server.listen (net.js:985:5)
+    at Object.exports.listen (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:21)
+    at pro.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:17)
+    at pro.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at module.exports.optComponents (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19)
+    at async.eachSeries.iterate (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+[2013-07-01 10:19:30.864] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 10:19:30.895] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 10:19:30.898] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:769:11)
+    at Server._listen2 (net.js:909:14)
+    at listen (net.js:936:10)
+    at Server.listen (net.js:985:5)
+    at Connector.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/connectors/hybridconnector.js:72:20)
+    at Component.afterStart (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:61:18)
+    at module.exports.optComponents (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19)
+    at async.eachSeries.iterate (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+    at process.startup.processNextTick.process._tickCallback (node.js:244:9)
+[2013-07-01 10:19:30.898] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 10:19:41.264] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 10:19:41.622] [INFO] console - info: 'socket.io started'
+[2013-07-01 10:19:41.625] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:769:11)
+    at Server._listen2 (net.js:909:14)
+    at listen (net.js:936:10)
+    at Server.listen (net.js:985:5)
+    at Object.exports.listen (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:21)
+    at pro.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:17)
+    at pro.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at module.exports.optComponents (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19)
+    at async.eachSeries.iterate (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+[2013-07-01 10:19:41.743] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 10:19:41.769] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 10:19:41.772] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:769:11)
+    at Server._listen2 (net.js:909:14)
+    at listen (net.js:936:10)
+    at Server.listen (net.js:985:5)
+    at Connector.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/connectors/hybridconnector.js:72:20)
+    at Component.afterStart (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:61:18)
+    at module.exports.optComponents (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19)
+    at async.eachSeries.iterate (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+    at process.startup.processNextTick.process._tickCallback (node.js:244:9)
+[2013-07-01 10:19:41.772] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 10:19:58.715] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 10:19:59.081] [INFO] console - info: 'socket.io started'
+[2013-07-01 10:19:59.084] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:769:11)
+    at Server._listen2 (net.js:909:14)
+    at listen (net.js:936:10)
+    at Server.listen (net.js:985:5)
+    at Object.exports.listen (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:21)
+    at pro.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:17)
+    at pro.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at module.exports.optComponents (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19)
+    at async.eachSeries.iterate (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+[2013-07-01 10:19:59.202] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 10:19:59.232] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 10:19:59.234] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:769:11)
+    at Server._listen2 (net.js:909:14)
+    at listen (net.js:936:10)
+    at Server.listen (net.js:985:5)
+    at Connector.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/connectors/hybridconnector.js:72:20)
+    at Component.afterStart (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:61:18)
+    at module.exports.optComponents (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19)
+    at async.eachSeries.iterate (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+    at process.startup.processNextTick.process._tickCallback (node.js:244:9)
+[2013-07-01 10:19:59.235] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 10:23:20.878] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 10:23:21.336] [INFO] console - info: 'socket.io started'
+[2013-07-01 10:23:21.467] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 10:23:21.502] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 10:23:21.503] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 10:23:46.026] [ERROR] console -  Caught exception: ReferenceError: f is not defined
+    at Handler.entry (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:21:22)
+    at Service.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:206:15)
+[2013-07-01 10:23:54.711] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 10:23:55.102] [INFO] console - info: 'socket.io started'
+[2013-07-01 10:23:55.223] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 10:23:55.259] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 10:23:55.260] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 10:24:03.141] [ERROR] console -  Caught exception: ReferenceError: f is not defined
+    at Handler.entry (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:21:22)
+    at Service.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:206:15)
+[2013-07-01 10:24:09.287] [ERROR] console -  Caught exception: ReferenceError: f is not defined
+    at Handler.entry (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:21:22)
+    at Service.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:206:15)
+[2013-07-01 10:24:40.727] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 10:24:41.111] [INFO] console - info: 'socket.io started'
+[2013-07-01 10:24:41.237] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 10:24:41.270] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 10:24:41.272] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 10:24:49.018] [ERROR] console -  Caught exception: TypeError: object is not a function
+    at Handler.entry (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:21:18)
+    at Service.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:206:15)
+[2013-07-01 10:25:18.056] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 10:25:18.434] [INFO] console - info: 'socket.io started'
+[2013-07-01 10:25:18.560] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 10:25:18.591] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 10:25:18.593] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 10:25:20.426] [ERROR] console -  Caught exception: TypeError: object is not a function
+    at Handler.entry (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:21:18)
+    at Service.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:206:15)
+[2013-07-01 10:25:44.478] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 10:25:44.865] [INFO] console - info: 'socket.io started'
+[2013-07-01 10:25:44.989] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 10:25:45.024] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 10:25:45.025] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 10:25:47.803] [ERROR] console -  Caught exception: TypeError: object is not a function
+    at Handler.entry (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:21:18)
+    at Service.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:206:15)
+[2013-07-01 10:28:29.484] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 10:28:29.860] [INFO] console - info: 'socket.io started'
+[2013-07-01 10:28:29.980] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 10:28:30.011] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 10:28:30.012] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 10:28:44.481] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 10:28:44.844] [INFO] console - info: 'socket.io started'
+[2013-07-01 10:28:44.978] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 10:28:45.015] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 10:28:45.017] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 10:28:59.510] [ERROR] console -  Caught exception: TypeError: object is not a function
+    at Handler.entry (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:21:18)
+    at Service.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:206:15)
+[2013-07-01 10:30:21.581] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 10:30:21.951] [INFO] console - info: 'socket.io started'
+[2013-07-01 10:30:22.069] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 10:30:22.100] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 10:30:22.101] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 10:30:35.562] [ERROR] console -  Caught exception: TypeError: object is not a function
+    at Handler.entry (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:20:19)
+    at Service.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:206:15)
+[2013-07-01 10:31:22.934] [ERROR] console -  Caught exception: TypeError: object is not a function
+    at Handler.entry (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:20:19)
+    at Service.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:206:15)
+[2013-07-01 10:32:48.482] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 10:32:48.842] [INFO] console - info: 'socket.io started'
+[2013-07-01 10:32:48.959] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 10:32:48.990] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 10:32:48.991] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 10:32:50.800] [ERROR] console -  Caught exception: TypeError: object is not a function
+    at Handler.entry (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:20:19)
+    at Service.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:206:15)
+[2013-07-01 10:41:13.095] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 10:41:13.498] [INFO] console - info: 'socket.io started'
+[2013-07-01 10:41:13.628] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 10:41:13.660] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 10:41:13.661] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 10:41:23.405] [ERROR] console -  Caught exception: TypeError: object is not a function
+    at Handler.entry (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:20:18)
+    at Service.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:206:15)
+[2013-07-01 10:42:00.464] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 10:42:00.831] [INFO] console - info: 'socket.io started'
+[2013-07-01 10:42:00.945] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 10:42:00.977] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 10:42:00.979] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 10:42:04.403] [ERROR] console -  Caught exception: TypeError: object is not a function
+    at Handler.entry (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:20:18)
+    at Service.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:206:15)
+[2013-07-01 10:43:24.997] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 10:43:25.380] [INFO] console - info: 'socket.io started'
+[2013-07-01 10:43:25.499] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 10:43:25.530] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 10:43:25.532] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 10:43:27.849] [ERROR] console -  Caught exception: TypeError: object is not a function
+    at Handler.entry (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:19:18)
+    at Service.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:206:15)
+[2013-07-01 10:43:43.899] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 10:43:44.272] [INFO] console - info: 'socket.io started'
+[2013-07-01 10:43:44.391] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 10:43:44.425] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 10:43:44.426] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 10:43:46.415] [ERROR] console -  Caught exception: TypeError: object is not a function
+    at Handler.entry (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:19:18)
+    at Service.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:206:15)
+[2013-07-01 10:43:56.033] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 10:43:56.424] [INFO] console - info: 'socket.io started'
+[2013-07-01 10:43:56.548] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 10:43:56.581] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 10:43:56.583] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 10:43:58.265] [ERROR] console -  Caught exception: TypeError: object is not a function
+    at Handler.entry (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:19:18)
+    at Service.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:206:15)
+[2013-07-01 10:44:51.730] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 10:44:52.092] [INFO] console - info: 'socket.io started'
+[2013-07-01 10:44:52.209] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 10:44:52.240] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 10:44:52.241] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 10:44:56.396] [ERROR] console -  Caught exception: TypeError: Property 'console' of object #<Object> is not a function
+    at Handler.entry (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:20:5)
+    at Service.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:206:15)
+[2013-07-01 10:46:05.237] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 10:46:05.630] [INFO] console - info: 'socket.io started'
+[2013-07-01 10:46:05.633] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:769:11)
+    at Server._listen2 (net.js:909:14)
+    at listen (net.js:936:10)
+    at Server.listen (net.js:985:5)
+    at Object.exports.listen (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:21)
+    at pro.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:17)
+    at pro.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at module.exports.optComponents (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19)
+    at async.eachSeries.iterate (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+[2013-07-01 10:46:05.750] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 10:46:05.781] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 10:46:05.783] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:769:11)
+    at Server._listen2 (net.js:909:14)
+    at listen (net.js:936:10)
+    at Server.listen (net.js:985:5)
+    at Connector.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/connectors/hybridconnector.js:72:20)
+    at Component.afterStart (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:61:18)
+    at module.exports.optComponents (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19)
+    at async.eachSeries.iterate (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+    at process.startup.processNextTick.process._tickCallback (node.js:244:9)
+[2013-07-01 10:46:05.784] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 10:46:42.133] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 10:46:42.503] [INFO] console - info: 'socket.io started'
+[2013-07-01 10:46:42.624] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 10:46:42.655] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 10:46:42.657] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 10:47:15.909] [ERROR] console -  Caught exception: TypeError: Property 'console' of object #<Object> is not a function
+    at Handler.entry (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:20:5)
+    at Service.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:206:15)
+[2013-07-01 10:48:30.478] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 10:48:30.845] [INFO] console - info: 'socket.io started'
+[2013-07-01 10:48:30.958] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 10:48:30.992] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 10:48:30.994] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 10:56:12.889] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 10:56:13.257] [INFO] console - info: 'socket.io started'
+[2013-07-01 10:56:13.261] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:769:11)
+    at Server._listen2 (net.js:909:14)
+    at listen (net.js:936:10)
+    at Server.listen (net.js:985:5)
+    at Object.exports.listen (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:21)
+    at pro.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:17)
+    at pro.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at module.exports.optComponents (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19)
+    at async.eachSeries.iterate (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+[2013-07-01 10:56:13.388] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 10:56:13.420] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 10:56:13.423] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:769:11)
+    at Server._listen2 (net.js:909:14)
+    at listen (net.js:936:10)
+    at Server.listen (net.js:985:5)
+    at Connector.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/connectors/hybridconnector.js:72:20)
+    at Component.afterStart (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:61:18)
+    at module.exports.optComponents (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19)
+    at async.eachSeries.iterate (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+    at process.startup.processNextTick.process._tickCallback (node.js:244:9)
+[2013-07-01 10:56:13.423] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 10:56:58.784] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 10:56:59.161] [INFO] console - info: 'socket.io started'
+[2013-07-01 10:56:59.281] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 10:56:59.313] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 10:56:59.314] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 10:57:02.418] [ERROR] console -  Caught exception: ReferenceError: Sex is not defined
+    at new module.exports (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/Models/AccountPlayer.js:16:15)
+    at Handler.entry (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:19:18)
+    at Service.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+[2013-07-01 11:13:17.138] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 11:13:17.510] [INFO] console - info: 'socket.io started'
+[2013-07-01 11:13:17.644] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 11:13:17.678] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 11:13:17.679] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 11:13:27.339] [ERROR] console -  Caught exception: ReferenceError: ddd is not defined
+    at Handler.entry (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:20:40)
+    at Service.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:206:15)
+[2013-07-01 11:13:46.368] [ERROR] console -  Caught exception: ReferenceError: ddd is not defined
+    at Handler.entry (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:20:40)
+    at Service.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:206:15)
+[2013-07-01 11:14:01.498] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 11:14:01.864] [INFO] console - info: 'socket.io started'
+[2013-07-01 11:14:01.980] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 11:14:02.011] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 11:14:02.013] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 11:32:50.972] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 11:32:51.329] [INFO] console - info: 'socket.io started'
+[2013-07-01 11:32:51.332] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:769:11)
+    at Server._listen2 (net.js:909:14)
+    at listen (net.js:936:10)
+    at Server.listen (net.js:985:5)
+    at Object.exports.listen (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:21)
+    at pro.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:17)
+    at pro.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at module.exports.optComponents (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19)
+    at async.eachSeries.iterate (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+[2013-07-01 11:32:51.343] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 11:32:51.368] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 11:32:51.370] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:769:11)
+    at Server._listen2 (net.js:909:14)
+    at listen (net.js:936:10)
+    at Server.listen (net.js:985:5)
+    at Connector.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/connectors/hybridconnector.js:72:20)
+    at Component.afterStart (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:61:18)
+    at module.exports.optComponents (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19)
+    at async.eachSeries.iterate (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+    at process.startup.processNextTick.process._tickCallback (node.js:244:9)
+[2013-07-01 11:32:51.371] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 11:33:29.974] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 11:33:30.341] [INFO] console - info: 'socket.io started'
+[2013-07-01 11:33:30.354] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 11:33:30.382] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 11:33:30.383] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 11:34:50.370] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 11:34:50.765] [INFO] console - info: 'socket.io started'
+[2013-07-01 11:34:50.776] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 11:34:50.803] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 11:34:50.804] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 11:35:36.207] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 11:35:36.616] [INFO] console - info: 'socket.io started'
+[2013-07-01 11:35:36.768] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 11:35:36.803] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 11:35:36.804] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 11:35:48.962] [ERROR] console -  Caught exception: TypeError: undefined is not a function
+    at Object.module.exports.getDbConnector (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/Manager/DBAccess/DBBasicManager.js:14:20)
+    at Handler.entry (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:21:8)
+    at Service.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+[2013-07-01 11:36:36.559] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 11:36:36.969] [INFO] console - info: 'socket.io started'
+[2013-07-01 11:36:37.106] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 11:36:37.140] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 11:36:37.142] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 11:36:40.823] [INFO] console - ========================================================================================
+[2013-07-01 11:36:40.823] [INFO] console - =  Please ensure that you set the default write concern for the database by setting    =
+[2013-07-01 11:36:40.823] [INFO] console - =   one of the options                                                                 =
+[2013-07-01 11:36:40.823] [INFO] console - =                                                                                      =
+[2013-07-01 11:36:40.824] [INFO] console - =     w: (value of > -1 or the string 'majority'), where < 1 means                     =
+[2013-07-01 11:36:40.824] [INFO] console - =        no write acknowlegement                                                       =
+[2013-07-01 11:36:40.824] [INFO] console - =     journal: true/false, wait for flush to journal before acknowlegement             =
+[2013-07-01 11:36:40.824] [INFO] console - =     fsync: true/false, wait for flush to file system before acknowlegement           =
+[2013-07-01 11:36:40.824] [INFO] console - =                                                                                      =
+[2013-07-01 11:36:40.824] [INFO] console - =  For backward compatibility safe is still supported and                              =
+[2013-07-01 11:36:40.825] [INFO] console - =   allows values of [true | false | {j:true} | {w:n, wtimeout:n} | {fsync:true}]      =
+[2013-07-01 11:36:40.826] [INFO] console - =   the default value is false which means the driver receives does not                =
+[2013-07-01 11:36:40.827] [INFO] console - =   return the information of the success/error of the insert/update/remove            =
+[2013-07-01 11:36:40.827] [INFO] console - =                                                                                      =
+[2013-07-01 11:36:40.827] [INFO] console - =   ex: new Db(new Server('localhost', 27017), {safe:false})                           =
+[2013-07-01 11:36:40.827] [INFO] console - =                                                                                      =
+[2013-07-01 11:36:40.827] [INFO] console - =   http://www.mongodb.org/display/DOCS/getLastError+Command                           =
+[2013-07-01 11:36:40.828] [INFO] console - =                                                                                      =
+[2013-07-01 11:36:40.828] [INFO] console - =  The default of no acknowlegement will change in the very near future                =
+[2013-07-01 11:36:40.828] [INFO] console - =                                                                                      =
+[2013-07-01 11:36:40.828] [INFO] console - =  This message will disappear when the default safe is set on the driver Db           =
+[2013-07-01 11:36:40.829] [INFO] console - ========================================================================================
+[2013-07-01 11:36:40.869] [INFO] console - connect
+[2013-07-01 11:37:13.928] [INFO] console - ========================================================================================
+[2013-07-01 11:37:13.931] [INFO] console - =  Please ensure that you set the default write concern for the database by setting    =
+[2013-07-01 11:37:13.931] [INFO] console - =   one of the options                                                                 =
+[2013-07-01 11:37:13.931] [INFO] console - =                                                                                      =
+[2013-07-01 11:37:13.931] [INFO] console - =     w: (value of > -1 or the string 'majority'), where < 1 means                     =
+[2013-07-01 11:37:13.931] [INFO] console - =        no write acknowlegement                                                       =
+[2013-07-01 11:37:13.931] [INFO] console - =     journal: true/false, wait for flush to journal before acknowlegement             =
+[2013-07-01 11:37:13.932] [INFO] console - =     fsync: true/false, wait for flush to file system before acknowlegement           =
+[2013-07-01 11:37:13.932] [INFO] console - =                                                                                      =
+[2013-07-01 11:37:13.932] [INFO] console - =  For backward compatibility safe is still supported and                              =
+[2013-07-01 11:37:13.932] [INFO] console - =   allows values of [true | false | {j:true} | {w:n, wtimeout:n} | {fsync:true}]      =
+[2013-07-01 11:37:13.932] [INFO] console - =   the default value is false which means the driver receives does not                =
+[2013-07-01 11:37:13.932] [INFO] console - =   return the information of the success/error of the insert/update/remove            =
+[2013-07-01 11:37:13.932] [INFO] console - =                                                                                      =
+[2013-07-01 11:37:13.933] [INFO] console - =   ex: new Db(new Server('localhost', 27017), {safe:false})                           =
+[2013-07-01 11:37:13.933] [INFO] console - =                                                                                      =
+[2013-07-01 11:37:13.933] [INFO] console - =   http://www.mongodb.org/display/DOCS/getLastError+Command                           =
+[2013-07-01 11:37:13.933] [INFO] console - =                                                                                      =
+[2013-07-01 11:37:13.933] [INFO] console - =  The default of no acknowlegement will change in the very near future                =
+[2013-07-01 11:37:13.933] [INFO] console - =                                                                                      =
+[2013-07-01 11:37:13.934] [INFO] console - =  This message will disappear when the default safe is set on the driver Db           =
+[2013-07-01 11:37:13.934] [INFO] console - ========================================================================================
+[2013-07-01 11:37:13.984] [INFO] console - connect
+[2013-07-01 11:37:21.750] [INFO] console - ========================================================================================
+[2013-07-01 11:37:21.750] [INFO] console - =  Please ensure that you set the default write concern for the database by setting    =
+[2013-07-01 11:37:21.750] [INFO] console - =   one of the options                                                                 =
+[2013-07-01 11:37:21.750] [INFO] console - =                                                                                      =
+[2013-07-01 11:37:21.751] [INFO] console - =     w: (value of > -1 or the string 'majority'), where < 1 means                     =
+[2013-07-01 11:37:21.751] [INFO] console - =        no write acknowlegement                                                       =
+[2013-07-01 11:37:21.751] [INFO] console - =     journal: true/false, wait for flush to journal before acknowlegement             =
+[2013-07-01 11:38:17.969] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 11:38:18.340] [INFO] console - info: 'socket.io started'
+[2013-07-01 11:38:18.343] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:769:11)
+    at Server._listen2 (net.js:909:14)
+    at listen (net.js:936:10)
+    at Server.listen (net.js:985:5)
+    at Object.exports.listen (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:21)
+    at pro.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:17)
+    at pro.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at module.exports.optComponents (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19)
+    at async.eachSeries.iterate (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+[2013-07-01 11:38:18.464] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 11:38:18.495] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 11:38:18.497] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:769:11)
+    at Server._listen2 (net.js:909:14)
+    at listen (net.js:936:10)
+    at Server.listen (net.js:985:5)
+    at Connector.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/connectors/hybridconnector.js:72:20)
+    at Component.afterStart (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:61:18)
+    at module.exports.optComponents (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19)
+    at async.eachSeries.iterate (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+    at process.startup.processNextTick.process._tickCallback (node.js:244:9)
+[2013-07-01 11:38:18.497] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 11:38:39.763] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 11:38:40.124] [INFO] console - info: 'socket.io started'
+[2013-07-01 11:38:40.128] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:769:11)
+    at Server._listen2 (net.js:909:14)
+    at listen (net.js:936:10)
+    at Server.listen (net.js:985:5)
+    at Object.exports.listen (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:21)
+    at pro.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:17)
+    at pro.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at module.exports.optComponents (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19)
+    at async.eachSeries.iterate (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+[2013-07-01 11:38:40.245] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 11:38:40.276] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 11:38:40.278] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:769:11)
+    at Server._listen2 (net.js:909:14)
+    at listen (net.js:936:10)
+    at Server.listen (net.js:985:5)
+    at Connector.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/connectors/hybridconnector.js:72:20)
+    at Component.afterStart (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:61:18)
+    at module.exports.optComponents (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19)
+    at async.eachSeries.iterate (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+    at process.startup.processNextTick.process._tickCallback (node.js:244:9)
+[2013-07-01 11:38:40.278] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 11:39:28.266] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 11:39:28.636] [INFO] console - info: 'socket.io started'
+[2013-07-01 11:39:28.640] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:769:11)
+    at Server._listen2 (net.js:909:14)
+    at listen (net.js:936:10)
+    at Server.listen (net.js:985:5)
+    at Object.exports.listen (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:21)
+    at pro.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:17)
+    at pro.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at module.exports.optComponents (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19)
+    at async.eachSeries.iterate (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+[2013-07-01 11:39:28.754] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 11:39:28.784] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 11:39:28.786] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:769:11)
+    at Server._listen2 (net.js:909:14)
+    at listen (net.js:936:10)
+    at Server.listen (net.js:985:5)
+    at Connector.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/connectors/hybridconnector.js:72:20)
+    at Component.afterStart (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:61:18)
+    at module.exports.optComponents (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19)
+    at async.eachSeries.iterate (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+    at process.startup.processNextTick.process._tickCallback (node.js:244:9)
+[2013-07-01 11:39:28.787] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 11:40:00.473] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 11:40:00.848] [INFO] console - info: 'socket.io started'
+[2013-07-01 11:40:00.962] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 11:40:00.995] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 11:40:00.997] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 11:40:10.859] [INFO] console - ========================================================================================
+[2013-07-01 11:40:10.862] [INFO] console - =  Please ensure that you set the default write concern for the database by setting    =
+[2013-07-01 11:40:10.862] [INFO] console - =   one of the options                                                                 =
+[2013-07-01 11:40:10.862] [INFO] console - =                                                                                      =
+[2013-07-01 11:40:10.862] [INFO] console - =     w: (value of > -1 or the string 'majority'), where < 1 means                     =
+[2013-07-01 11:40:10.862] [INFO] console - =        no write acknowlegement                                                       =
+[2013-07-01 11:40:10.862] [INFO] console - =     journal: true/false, wait for flush to journal before acknowlegement             =
+[2013-07-01 11:40:10.863] [INFO] console - =     fsync: true/false, wait for flush to file system before acknowlegement           =
+[2013-07-01 11:40:10.863] [INFO] console - =                                                                                      =
+[2013-07-01 11:40:10.863] [INFO] console - =  For backward compatibility safe is still supported and                              =
+[2013-07-01 11:40:10.863] [INFO] console - =   allows values of [true | false | {j:true} | {w:n, wtimeout:n} | {fsync:true}]      =
+[2013-07-01 11:40:10.863] [INFO] console - =   the default value is false which means the driver receives does not                =
+[2013-07-01 11:40:10.863] [INFO] console - =   return the information of the success/error of the insert/update/remove            =
+[2013-07-01 11:40:10.864] [INFO] console - =                                                                                      =
+[2013-07-01 11:40:10.864] [INFO] console - =   ex: new Db(new Server('localhost', 27017), {safe:false})                           =
+[2013-07-01 11:40:10.864] [INFO] console - =                                                                                      =
+[2013-07-01 11:40:10.864] [INFO] console - =   http://www.mongodb.org/display/DOCS/getLastError+Command                           =
+[2013-07-01 11:40:10.864] [INFO] console - =                                                                                      =
+[2013-07-01 11:40:10.865] [INFO] console - =  The default of no acknowlegement will change in the very near future                =
+[2013-07-01 11:40:10.865] [INFO] console - =                                                                                      =
+[2013-07-01 11:40:10.865] [INFO] console - =  This message will disappear when the default safe is set on the driver Db           =
+[2013-07-01 11:40:10.865] [INFO] console - ========================================================================================
+[2013-07-01 11:41:38.674] [INFO] console - connect
+[2013-07-01 11:41:39.972] [INFO] console - ========================================================================================
+[2013-07-01 11:41:39.973] [INFO] console - =  Please ensure that you set the default write concern for the database by setting    =
+[2013-07-01 11:41:39.973] [INFO] console - =   one of the options                                                                 =
+[2013-07-01 11:41:39.973] [INFO] console - =                                                                                      =
+[2013-07-01 11:41:39.973] [INFO] console - =     w: (value of > -1 or the string 'majority'), where < 1 means                     =
+[2013-07-01 11:41:39.973] [INFO] console - =        no write acknowlegement                                                       =
+[2013-07-01 11:41:39.974] [INFO] console - =     journal: true/false, wait for flush to journal before acknowlegement             =
+[2013-07-01 11:41:39.974] [INFO] console - =     fsync: true/false, wait for flush to file system before acknowlegement           =
+[2013-07-01 11:41:39.974] [INFO] console - =                                                                                      =
+[2013-07-01 11:41:39.974] [INFO] console - =  For backward compatibility safe is still supported and                              =
+[2013-07-01 11:41:39.975] [INFO] console - =   allows values of [true | false | {j:true} | {w:n, wtimeout:n} | {fsync:true}]      =
+[2013-07-01 11:41:39.975] [INFO] console - =   the default value is false which means the driver receives does not                =
+[2013-07-01 11:41:39.975] [INFO] console - =   return the information of the success/error of the insert/update/remove            =
+[2013-07-01 11:41:39.975] [INFO] console - =                                                                                      =
+[2013-07-01 11:41:39.976] [INFO] console - =   ex: new Db(new Server('localhost', 27017), {safe:false})                           =
+[2013-07-01 11:41:39.976] [INFO] console - =                                                                                      =
+[2013-07-01 11:41:39.976] [INFO] console - =   http://www.mongodb.org/display/DOCS/getLastError+Command                           =
+[2013-07-01 11:41:39.976] [INFO] console - =                                                                                      =
+[2013-07-01 11:41:39.976] [INFO] console - =  The default of no acknowlegement will change in the very near future                =
+[2013-07-01 11:41:39.977] [INFO] console - =                                                                                      =
+[2013-07-01 11:41:39.977] [INFO] console - =  This message will disappear when the default safe is set on the driver Db           =
+[2013-07-01 11:41:39.977] [INFO] console - ========================================================================================
+[2013-07-01 11:41:43.257] [INFO] console - connect
+[2013-07-01 11:53:24.811] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 11:53:25.250] [INFO] console - info: 'socket.io started'
+[2013-07-01 11:53:25.377] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 11:53:25.409] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 11:53:25.410] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 11:53:34.455] [INFO] console - connect
+[2013-07-01 11:56:53.577] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 11:56:54.011] [INFO] console - info: 'socket.io started'
+[2013-07-01 11:56:54.014] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:769:11)
+    at Server._listen2 (net.js:909:14)
+    at listen (net.js:936:10)
+    at Server.listen (net.js:985:5)
+    at Object.exports.listen (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:21)
+    at pro.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:17)
+    at pro.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at module.exports.optComponents (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19)
+    at async.eachSeries.iterate (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+[2013-07-01 11:56:54.145] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 11:56:54.176] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 11:56:54.179] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:769:11)
+    at Server._listen2 (net.js:909:14)
+    at listen (net.js:936:10)
+    at Server.listen (net.js:985:5)
+    at Connector.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/connectors/hybridconnector.js:72:20)
+    at Component.afterStart (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:61:18)
+    at module.exports.optComponents (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19)
+    at async.eachSeries.iterate (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+    at process.startup.processNextTick.process._tickCallback (node.js:244:9)
+[2013-07-01 11:56:54.179] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 11:57:37.857] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 11:57:38.244] [INFO] console - info: 'socket.io started'
+[2013-07-01 11:57:38.366] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 11:57:38.400] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 11:57:38.402] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 11:57:47.125] [ERROR] console -  Caught exception: TypeError: Object #<Object> has no method 'getDbConnector'
+    at Handler.entry (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:21:8)
+    at Service.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:206:15)
+[2013-07-01 11:58:10.941] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 11:58:11.303] [INFO] console - info: 'socket.io started'
+[2013-07-01 11:58:11.419] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 11:58:11.449] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 11:58:11.450] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 11:58:21.422] [ERROR] console -  Caught exception: TypeError: Object #<Object> has no method 'getDbConnector'
+    at Handler.entry (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:21:8)
+    at Service.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:206:15)
+[2013-07-01 11:58:45.526] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 11:58:45.879] [INFO] console - info: 'socket.io started'
+[2013-07-01 11:58:45.991] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 11:58:46.021] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 11:58:46.022] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 11:59:02.870] [INFO] console - 123
+[2013-07-01 12:07:23.703] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 12:07:24.098] [INFO] console - info: 'socket.io started'
+[2013-07-01 12:07:24.222] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 12:07:24.255] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 12:07:24.258] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 12:08:38.126] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 12:08:38.498] [INFO] console - info: 'socket.io started'
+[2013-07-01 12:08:38.502] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:769:11)
+    at Server._listen2 (net.js:909:14)
+    at listen (net.js:936:10)
+    at Server.listen (net.js:985:5)
+    at Object.exports.listen (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:21)
+    at pro.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:17)
+    at pro.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at module.exports.optComponents (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19)
+    at async.eachSeries.iterate (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+[2013-07-01 12:08:38.621] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 12:08:38.651] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 12:08:38.653] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:769:11)
+    at Server._listen2 (net.js:909:14)
+    at listen (net.js:936:10)
+    at Server.listen (net.js:985:5)
+    at Connector.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/connectors/hybridconnector.js:72:20)
+    at Component.afterStart (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:61:18)
+    at module.exports.optComponents (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19)
+    at async.eachSeries.iterate (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+    at process.startup.processNextTick.process._tickCallback (node.js:244:9)
+[2013-07-01 12:08:38.654] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 12:09:05.581] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 12:09:05.966] [INFO] console - info: 'socket.io started'
+[2013-07-01 12:09:06.090] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 12:09:06.124] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 12:09:06.125] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 12:21:26.675] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 12:21:27.129] [INFO] console - info: 'socket.io started'
+[2013-07-01 12:21:27.133] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:769:11)
+    at Server._listen2 (net.js:909:14)
+    at listen (net.js:936:10)
+    at Server.listen (net.js:985:5)
+    at Object.exports.listen (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:21)
+    at pro.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:17)
+    at pro.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at module.exports.optComponents (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19)
+    at async.eachSeries.iterate (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+[2013-07-01 12:21:27.278] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 12:21:27.311] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 12:21:27.313] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:769:11)
+    at Server._listen2 (net.js:909:14)
+    at listen (net.js:936:10)
+    at Server.listen (net.js:985:5)
+    at Connector.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/connectors/hybridconnector.js:72:20)
+    at Component.afterStart (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:61:18)
+    at module.exports.optComponents (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19)
+    at async.eachSeries.iterate (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+    at process.startup.processNextTick.process._tickCallback (node.js:244:9)
+[2013-07-01 12:21:27.314] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 12:22:25.738] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 12:22:26.104] [INFO] console - info: 'socket.io started'
+[2013-07-01 12:22:26.226] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 12:22:26.257] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 12:22:26.259] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 12:22:41.971] [ERROR] console -  Caught exception: TypeError: Object #<Db> has no method 'insert'
+    at insert (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:26:15)
+    at module.exports.operateCollection (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/Manager/DBAccess/DBBasicManager.js:20:22)
+    at Db.collection (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/mongodb/db.js:469:44)
+    at module.exports.operateCollection (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/Manager/DBAccess/DBBasicManager.js:18:17)
+    at Db.open (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/mongodb/db.js:265:14)
+    at Server.connect.connectCallback (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/mongodb/connection/server.js:374:9)
+    at g (events.js:192:14)
+    at EventEmitter.emit (events.js:126:20)
+    at Server.Base._callHandler (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/mongodb/connection/base.js:409:25)
+    at Server.connect.connectionPool.on.server._serverState (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/mongodb/connection/server.js:563:20)
+[2013-07-01 12:25:55.906] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 12:25:56.432] [INFO] console - info: 'socket.io started'
+[2013-07-01 12:25:56.609] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 12:25:56.647] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 12:25:56.649] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 12:26:10.917] [ERROR] console -  Caught exception: Error: Cannot use a writeConcern without a provided callback
+    at insertAll (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/mongodb/collection.js:347:11)
+    at Collection.insert (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/mongodb/collection.js:93:3)
+    at insert (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:26:16)
+    at module.exports.operateCollection (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/Manager/DBAccess/DBBasicManager.js:20:22)
+    at Db.collection (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/mongodb/db.js:469:44)
+    at module.exports.operateCollection (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/Manager/DBAccess/DBBasicManager.js:18:17)
+    at Db.open (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/mongodb/db.js:265:14)
+    at Server.connect.connectCallback (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/mongodb/connection/server.js:374:9)
+    at g (events.js:192:14)
+    at EventEmitter.emit (events.js:126:20)
+[2013-07-01 12:29:08.253] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 12:29:08.834] [INFO] console - info: 'socket.io started'
+[2013-07-01 12:29:09.003] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 12:29:09.047] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 12:29:09.049] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 13:28:46.347] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 13:28:46.987] [INFO] console - info: 'socket.io started'
+[2013-07-01 13:28:47.201] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 13:28:47.231] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 13:28:47.232] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 13:29:14.650] [ERROR] console -  Caught exception: TypeError: Object #<Object> has no method 'add'
+    at Handler.entry (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:21:26)
+    at Service.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:206:15)
+[2013-07-01 13:34:43.994] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 13:34:44.364] [INFO] console - info: 'socket.io started'
+[2013-07-01 13:34:44.367] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:769:11)
+    at Server._listen2 (net.js:909:14)
+    at listen (net.js:936:10)
+    at Server.listen (net.js:985:5)
+    at Object.exports.listen (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:21)
+    at pro.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:17)
+    at pro.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at module.exports.optComponents (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19)
+    at async.eachSeries.iterate (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+[2013-07-01 13:34:44.484] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 13:34:44.515] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 13:34:44.517] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:769:11)
+    at Server._listen2 (net.js:909:14)
+    at listen (net.js:936:10)
+    at Server.listen (net.js:985:5)
+    at Connector.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/connectors/hybridconnector.js:72:20)
+    at Component.afterStart (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:61:18)
+    at module.exports.optComponents (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19)
+    at async.eachSeries.iterate (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+    at process.startup.processNextTick.process._tickCallback (node.js:244:9)
+[2013-07-01 13:34:44.518] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 13:40:22.693] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 13:40:23.082] [INFO] console - info: 'socket.io started'
+[2013-07-01 13:40:23.086] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:769:11)
+    at Server._listen2 (net.js:909:14)
+    at listen (net.js:936:10)
+    at Server.listen (net.js:985:5)
+    at Object.exports.listen (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:21)
+    at pro.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:17)
+    at pro.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at module.exports.optComponents (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19)
+    at async.eachSeries.iterate (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+[2013-07-01 13:40:23.090] [ERROR] console -  Caught exception: ReferenceError: userId is not defined
+    at Object.<anonymous> (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/Models/AccountPlayer.js:16:14)
+    at Module._compile (module.js:449:26)
+    at Object.Module._extensions..js (module.js:467:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:362:17)
+    at require (module.js:378:17)
+    at Object.<anonymous> (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:8:21)
+    at Module._compile (module.js:449:26)
+    at Object.Module._extensions..js (module.js:467:10)
+[2013-07-01 13:45:28.417] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 13:45:28.817] [INFO] console - info: 'socket.io started'
+[2013-07-01 13:45:28.820] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:769:11)
+    at Server._listen2 (net.js:909:14)
+    at listen (net.js:936:10)
+    at Server.listen (net.js:985:5)
+    at Object.exports.listen (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:21)
+    at pro.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:17)
+    at pro.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at module.exports.optComponents (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19)
+    at async.eachSeries.iterate (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+[2013-07-01 13:45:28.942] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 13:45:28.973] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 13:45:28.975] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:769:11)
+    at Server._listen2 (net.js:909:14)
+    at listen (net.js:936:10)
+    at Server.listen (net.js:985:5)
+    at Connector.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/connectors/hybridconnector.js:72:20)
+    at Component.afterStart (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:61:18)
+    at module.exports.optComponents (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19)
+    at async.eachSeries.iterate (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+    at process.startup.processNextTick.process._tickCallback (node.js:244:9)
+[2013-07-01 13:45:28.975] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 13:45:53.417] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 13:45:53.807] [INFO] console - info: 'socket.io started'
+[2013-07-01 13:45:53.811] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:769:11)
+    at Server._listen2 (net.js:909:14)
+    at listen (net.js:936:10)
+    at Server.listen (net.js:985:5)
+    at Object.exports.listen (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:21)
+    at pro.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:17)
+    at pro.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at module.exports.optComponents (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19)
+    at async.eachSeries.iterate (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+[2013-07-01 13:45:53.928] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 13:45:53.960] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 13:45:53.962] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:769:11)
+    at Server._listen2 (net.js:909:14)
+    at listen (net.js:936:10)
+    at Server.listen (net.js:985:5)
+    at Connector.start (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/connectors/hybridconnector.js:72:20)
+    at Component.afterStart (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:61:18)
+    at module.exports.optComponents (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19)
+    at async.eachSeries.iterate (/Users/Jay/Desktop/PCGit/Server/ProjectCard/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+    at process.startup.processNextTick.process._tickCallback (node.js:244:9)
+[2013-07-01 13:45:53.962] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 13:46:08.885] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-01 13:46:09.274] [INFO] console - info: 'socket.io started'
+[2013-07-01 13:46:09.394] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-01 13:46:09.425] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-01 13:46:09.427] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-01 13:46:25.058] [INFO] console - 3
+[2013-07-02 10:32:11.824] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-02 10:32:12.476] [INFO] console - info: 'socket.io started'
+[2013-07-02 10:32:12.754] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-02 10:32:12.783] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-02 10:32:12.784] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-02 10:33:08.141] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-02 10:33:08.498] [INFO] console - info: 'socket.io started'
+[2013-07-02 10:33:08.614] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-02 10:33:08.679] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-02 10:33:08.724] [INFO] console - info: 'socket.io started'
+[2013-07-02 10:33:08.724] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
