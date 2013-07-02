@@ -70,10 +70,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GameAI.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="GameAI.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/game-server/Manager/AI/GameAI.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="83" selection-start="274" selection-end="274" vertical-scroll-proportion="0.4225352">
+            <state line="8" column="90" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -88,10 +88,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GameEnum.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="GameEnum.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/game-server/Models/GameEnum.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="7" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
+            <state line="23" column="81" selection-start="352" selection-end="352" vertical-scroll-proportion="0.305835">
               <folding />
             </state>
           </provider>
@@ -124,11 +124,11 @@
         <option value="$PROJECT_DIR$/game-server/Manager/DBAccess/DBBasicManager.js" />
         <option value="$PROJECT_DIR$/game-server/Models/AccountPlayer.js" />
         <option value="$PROJECT_DIR$/game-server/app.js" />
-        <option value="$PROJECT_DIR$/game-server/Manager/AI/GameAI.js" />
         <option value="$PROJECT_DIR$/game-server/Models/Suit.js" />
         <option value="$PROJECT_DIR$/game-server/Models/GameEnum.js" />
         <option value="$PROJECT_DIR$/game-server/Models/Cards.js" />
         <option value="$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js" />
+        <option value="$PROJECT_DIR$/game-server/Manager/AI/GameAI.js" />
       </list>
     </option>
   </component>
@@ -564,9 +564,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/Models/GameEnum.js">
+    <entry file="file://$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="7" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
+        <state line="36" column="60" selection-start="1087" selection-end="1087" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/Manager/AI/GameAI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="90" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -578,16 +585,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js">
+    <entry file="file://$PROJECT_DIR$/game-server/Models/GameEnum.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="60" selection-start="1087" selection-end="1087" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/Manager/AI/GameAI.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="83" selection-start="274" selection-end="274" vertical-scroll-proportion="0.4225352">
+        <state line="23" column="81" selection-start="352" selection-end="352" vertical-scroll-proportion="0.305835">
           <folding />
         </state>
       </provider>
