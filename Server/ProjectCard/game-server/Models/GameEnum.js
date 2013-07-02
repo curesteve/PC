@@ -21,6 +21,14 @@ module.exports.RankType = {
 
 }
 
+//牌花色枚举
+module.exports.Suit = {
+    Heart:"Heart",
+    Spade:"Spade",
+    Club:"Club",
+    Diamond:"Diamond"
+}
+
 module.exports.add = function(a,b){
     return add(a,b);
 }

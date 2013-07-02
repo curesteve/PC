@@ -8,6 +8,7 @@ var Handler = function(app) {
 var AccountPlayer = require ('../../../../Models/AccountPlayer.js');
 var GameEnum = require ('../../../../Models/GameEnum.js');
 var db = require ('../../../../Manager/DBAccess/DBBasicManager');
+var Cards = require ('../../../../Models/Cards.js');
 /**
  * New client entry chat server.
  *
@@ -17,8 +18,8 @@ var db = require ('../../../../Manager/DBAccess/DBBasicManager');
  * @return {Void}
  */
 Handler.prototype.entry = function(msg, session, next) {
-    db.operateCollection("UserInfo",insert);
-    console.log(GameEnum.add(1,2));
+    var Points=Cards.getPoints();
+    console.log(Points);
     next(null, {code: 200, msg: 'game server is ok.'});
 };
 

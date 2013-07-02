@@ -7,11 +7,14 @@
     <file path="$PROJECT_DIR$/web-server/public/js/lib/build/build.js" changelist="9d9edca3-0985-4b74-9463-251caf1073c3" time="1372569843556" ignored="false" />
     <file path="/servers.json" changelist="9d9edca3-0985-4b74-9463-251caf1073c3" time="1372574407198" ignored="false" />
     <file path="/starter.js" changelist="9d9edca3-0985-4b74-9463-251caf1073c3" time="1372585722411" ignored="false" />
-    <file path="/entryHandler.js" changelist="9d9edca3-0985-4b74-9463-251caf1073c3" time="1372656518797" ignored="false" />
+    <file path="/entryHandler.js" changelist="9d9edca3-0985-4b74-9463-251caf1073c3" time="1372748572954" ignored="false" />
     <file path="/AccountPlayer.js" changelist="9d9edca3-0985-4b74-9463-251caf1073c3" time="1372657509978" ignored="false" />
     <file path="/PlayerGameInfo.js" changelist="9d9edca3-0985-4b74-9463-251caf1073c3" time="1372646751290" ignored="false" />
-    <file path="/GameEnum.js" changelist="9d9edca3-0985-4b74-9463-251caf1073c3" time="1372656877503" ignored="false" />
+    <file path="/GameEnum.js" changelist="9d9edca3-0985-4b74-9463-251caf1073c3" time="1372748193788" ignored="false" />
     <file path="/DBBasicManager.js" changelist="9d9edca3-0985-4b74-9463-251caf1073c3" time="1372651610852" ignored="false" />
+    <file path="/GameAI.js" changelist="9d9edca3-0985-4b74-9463-251caf1073c3" time="1372746648049" ignored="false" />
+    <file path="/Cards.js" changelist="9d9edca3-0985-4b74-9463-251caf1073c3" time="1372748521575" ignored="false" />
+    <file path="/Dummy.txt" changelist="9d9edca3-0985-4b74-9463-251caf1073c3" time="1372750131712" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,55 +34,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="entryHandler.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="0" selection-start="848" selection-end="848" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/game-server/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="54" selection-start="300" selection-end="300" vertical-scroll-proportion="0.37422037">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pomelo.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/game-server/node_modules/pomelo/lib/pomelo.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="48" selection-start="663" selection-end="675" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AccountPlayer.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/game-server/Models/AccountPlayer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="31" selection-start="440" selection-end="440" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="PlayerGameInfo.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/game-server/Models/PlayerGameInfo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="collection.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/game-server/node_modules/mongodb/collection.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="92" column="0" selection-start="4214" selection-end="4214" vertical-scroll-proportion="0.0">
+            <state line="16" column="16" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -88,25 +46,43 @@
       <file leaf-file-name="DBBasicManager.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/game-server/Manager/DBAccess/DBBasicManager.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="0" selection-start="656" selection-end="656" vertical-scroll-proportion="0.0">
+            <state line="12" column="48" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="db.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/game-server/node_modules/mongodb/db.js">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-server/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="470" column="0" selection-start="21567" selection-end="21567" vertical-scroll-proportion="0.0">
+            <state line="24" column="49" selection-start="847" selection-end="847" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cursor.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/game-server/node_modules/mongodb/cursor.js">
+      <file leaf-file-name="entryHandler.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="309" column="17" selection-start="12470" selection-end="12480" vertical-scroll-proportion="0.0">
+            <state line="36" column="60" selection-start="1087" selection-end="1087" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameAI.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/game-server/Manager/AI/GameAI.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="83" selection-start="274" selection-end="274" vertical-scroll-proportion="0.4225352">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cards.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/game-server/Models/Cards.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="1" selection-start="269" selection-end="269" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -115,7 +91,7 @@
       <file leaf-file-name="GameEnum.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/game-server/Models/GameEnum.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="0" selection-start="345" selection-end="443" vertical-scroll-proportion="0.0">
+            <state line="23" column="7" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -128,6 +104,14 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
@@ -138,19 +122,23 @@
         <option value="$PROJECT_DIR$/game-server/Models/PlayerGameInfo.js" />
         <option value="$PROJECT_DIR$/game-server/Manager/DBAccess.js" />
         <option value="$PROJECT_DIR$/game-server/Manager/DBAccess/DBBasicManager.js" />
-        <option value="$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js" />
-        <option value="$PROJECT_DIR$/game-server/Models/GameEnum.js" />
         <option value="$PROJECT_DIR$/game-server/Models/AccountPlayer.js" />
         <option value="$PROJECT_DIR$/game-server/app.js" />
+        <option value="$PROJECT_DIR$/game-server/Manager/AI/GameAI.js" />
+        <option value="$PROJECT_DIR$/game-server/Models/Suit.js" />
+        <option value="$PROJECT_DIR$/game-server/Models/GameEnum.js" />
+        <option value="$PROJECT_DIR$/game-server/Models/Cards.js" />
+        <option value="$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1280" />
+    <option name="x" value="6" />
+    <option name="y" value="22" />
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -176,7 +164,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -192,6 +179,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ProjectCard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectCard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectCard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web-server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectCard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectCard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web-server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -263,6 +282,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Manager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectCard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectCard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game-server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -281,15 +322,16 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="preferences.sourceCode.CoffeeScript" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../我的文档/DEMO/game" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/game-server" />
     <property name="FullScreen" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -335,6 +377,23 @@
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="9d9edca3-0985-4b74-9463-251caf1073c3" name="Default" comment="" />
@@ -344,17 +403,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="6" y="22" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24558927" sideWeight="0.6820513" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24558927" sideWeight="0.6713555" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.414791" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31794873" sideWeight="0.9971771" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3286445" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3167702" sideWeight="0.9971771" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -426,13 +485,8 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/game-server/Manager/DBAccess/DBBasicManager.js</url>
-          <line>29</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js</url>
-          <line>25</line>
+          <line>26</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
@@ -440,33 +494,16 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/game-server/config/clientProtos.json">
+    <entry file="file://$PROJECT_DIR$/game-server/Models/GameEnum.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+        <state line="23" column="7" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/node_modules/mongodb/connection/base.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="221" column="0" selection-start="5887" selection-end="5887" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/node_modules/mongodb/connection/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="0" selection-start="3627" selection-end="3627" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/game-server/config/servers.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="26" selection-start="331" selection-end="331" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="10" column="26" selection-start="331" selection-end="331" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/game-server/node_modules/pomelo/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/tmp/app.js">
@@ -476,72 +513,81 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="68" selection-start="555" selection-end="555" vertical-scroll-proportion="0.51861703" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/node_modules/pomelo/lib/pomelo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="48" selection-start="663" selection-end="675" vertical-scroll-proportion="0.019946808" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/node_modules/mongodb/db.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="470" column="0" selection-start="21567" selection-end="21567" vertical-scroll-proportion="0.020297699" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/game-server/node_modules/mongodb/cursor.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="309" column="17" selection-start="12470" selection-end="12480" vertical-scroll-proportion="0.0">
+        <state line="309" column="17" selection-start="12470" selection-end="12480" vertical-scroll-proportion="0.020297699" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/Models/AccountPlayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="31" selection-start="440" selection-end="440" vertical-scroll-proportion="0.31914893" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-server/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="49" selection-start="847" selection-end="847" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/game-server/node_modules/mongodb/collection.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="0" selection-start="4214" selection-end="4214" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/node_modules/mongodb/db.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="470" column="0" selection-start="21567" selection-end="21567" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/Models/GameEnum.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="345" selection-end="443" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="49" column="68" selection-start="1888" selection-end="1888" vertical-scroll-proportion="0.3856563" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/game-server/Models/PlayerGameInfo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/Models/AccountPlayer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="31" selection-start="440" selection-end="440" vertical-scroll-proportion="0.0">
+        <state line="16" column="16" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/game-server/Manager/DBAccess/DBBasicManager.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="656" selection-end="656" vertical-scroll-proportion="0.0">
+        <state line="12" column="48" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/Models/GameEnum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="7" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/Models/Cards.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="1" selection-start="269" selection-end="269" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="848" selection-end="848" vertical-scroll-proportion="0.0">
+        <state line="36" column="60" selection-start="1087" selection-end="1087" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/node_modules/pomelo/lib/pomelo.js">
+    <entry file="file://$PROJECT_DIR$/game-server/Manager/AI/GameAI.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="48" selection-start="663" selection-end="675" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="54" selection-start="300" selection-end="300" vertical-scroll-proportion="0.37422037">
+        <state line="14" column="83" selection-start="274" selection-end="274" vertical-scroll-proportion="0.4225352">
           <folding />
         </state>
       </provider>
