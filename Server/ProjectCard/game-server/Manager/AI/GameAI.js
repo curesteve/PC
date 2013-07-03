@@ -6,13 +6,24 @@
  * To change this template use File | Settings | File Templates.
  */
 
-module.exports.AnalysisCardType = function(UserCards){
-    //tt
+module.exports = function(){
+    this.Type = 0;
 }
 
-function UserCards(UId,Card)
-{
-    this.UId = UId;
-    this.Card = Card;
+module.exports.AnalysisCardType = function(UserCards){
+    //tt
+
+}
+module.exports.CalculateCard = function(UserCards){
+    //tt
+
+}
+module.exports.ForEachType = function(UserCards){
+    //tt
+
+}
+module.exports.ChooseSuit = function(UserCards){
+    //tt
+
 }
 

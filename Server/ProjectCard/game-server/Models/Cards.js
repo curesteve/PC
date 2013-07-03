@@ -6,10 +6,13 @@
  * To change this template use File | Settings | File Templates.
  */
 
-var Suit=require('');
-var Suit;
-var Points=0;
+var Cards = new array();
 var UId;
-module.exports.getPoints=function(){
-    return Points;
+//构造函数
+module.exports= function(){
+    this.add = function(Card){
+        Cards[Cards.length-1] = Card;
+    }
+
 }
+

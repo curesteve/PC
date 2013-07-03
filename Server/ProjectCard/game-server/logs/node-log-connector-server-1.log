@@ -1158,3 +1158,210 @@
 [2013-07-02 10:33:08.679] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
 [2013-07-02 10:33:08.724] [INFO] console - info: 'socket.io started'
 [2013-07-02 10:33:08.724] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-02 17:28:54.392] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-02 17:28:55.033] [INFO] console - info: 'socket.io started'
+[2013-07-02 17:28:55.298] [ERROR] console -  Caught exception: Error: Cannot find module ''
+    at Function.Module._resolveFilename (module.js:338:15)
+    at Function.Module._load (module.js:280:25)
+    at Module.require (module.js:362:17)
+    at require (module.js:378:17)
+    at Object.<anonymous> (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/Models/Cards.js:9:10)
+    at Module._compile (module.js:449:26)
+    at Object.Module._extensions..js (module.js:467:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:362:17)
+[2013-07-02 17:29:44.183] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-02 17:29:44.816] [INFO] console - info: 'socket.io started'
+[2013-07-02 17:29:45.054] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-02 17:29:45.104] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-02 17:29:45.106] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-02 17:32:26.400] [INFO] console - 0
+[2013-07-02 17:34:01.725] [INFO] console - 0
+[2013-07-03 10:51:30.620] [INFO] console - 0
+[2013-07-03 10:54:51.927] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-03 10:54:53.003] [INFO] console - info: 'socket.io started'
+[2013-07-03 10:54:53.286] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-03 10:54:53.331] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-03 10:54:53.333] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-03 10:55:02.066] [ERROR] console -  Caught exception: TypeError: Object [object Object] has no method 'getPoints'
+    at Handler.entry (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:22:21)
+    at Service.handle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:206:15)
+[2013-07-03 10:56:31.519] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-03 10:56:32.194] [INFO] console - info: 'socket.io started'
+[2013-07-03 10:56:32.416] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-03 10:56:32.453] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-03 10:56:32.455] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-03 10:56:40.152] [ERROR] console -  Caught exception: TypeError: Object [object Object] has no method 'getPoints'
+    at Handler.entry (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:22:21)
+    at Service.handle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:206:15)
+[2013-07-03 10:57:34.680] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-03 10:57:35.276] [INFO] console - info: 'socket.io started'
+[2013-07-03 10:57:35.509] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-03 10:57:35.559] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-03 10:57:35.561] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-03 10:57:39.772] [INFO] console - undefined
+[2013-07-03 10:57:39.777] [ERROR] console -  Caught exception: TypeError: Object [object Object] has no method 'getSuit'
+    at Handler.entry (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:24:22)
+    at Service.handle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:206:15)
+[2013-07-03 11:00:42.823] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-03 11:00:43.403] [INFO] console - info: 'socket.io started'
+[2013-07-03 11:00:43.623] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-03 11:00:43.686] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-03 11:00:43.689] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-03 11:00:52.490] [INFO] console - 12
+[2013-07-03 11:00:52.491] [INFO] console - Diamond
+[2013-07-03 11:00:52.491] [INFO] console - 10010
+[2013-07-03 13:48:03.397] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-03 13:48:04.239] [INFO] console - info: 'socket.io started'
+[2013-07-03 13:48:04.538] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-03 13:48:04.586] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-03 13:48:04.588] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-03 13:48:14.131] [INFO] console - 12
+[2013-07-03 13:48:14.132] [INFO] console - 12
+[2013-07-03 13:48:14.132] [INFO] console - 10010
+[2013-07-03 13:49:16.178] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-03 13:49:16.775] [INFO] console - info: 'socket.io started'
+[2013-07-03 13:49:17.028] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-03 13:49:17.094] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-03 13:49:17.096] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-03 13:49:24.116] [INFO] console - 10010
+[2013-07-03 13:49:24.116] [INFO] console - 12
+[2013-07-03 13:49:24.116] [INFO] console - Diamond
+[2013-07-03 13:49:24.121] [ERROR] console -  Caught exception: ReferenceError: Points is not defined
+    at Handler.entry (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:25:33)
+    at Service.handle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/connector.js:206:15)
+[2013-07-03 13:50:49.869] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-03 13:50:50.429] [INFO] console - info: 'socket.io started'
+[2013-07-03 13:50:50.602] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-03 13:50:50.669] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-03 13:50:50.675] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-03 13:50:52.904] [INFO] console - 10010
+[2013-07-03 13:50:52.904] [INFO] console - 12
+[2013-07-03 13:50:52.904] [INFO] console - 15
+[2013-07-03 13:50:52.905] [INFO] console - Diamond
+[2013-07-03 17:03:27.010] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-03 17:03:27.993] [INFO] console - info: 'socket.io started'
+[2013-07-03 17:03:28.263] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-03 17:03:28.308] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-03 17:03:28.310] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-03 17:03:36.659] [INFO] console - { prototype: { UId: 10010, NickName: 'steve' } }
+[2013-07-03 17:06:12.318] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-03 17:06:12.995] [INFO] console - info: 'socket.io started'
+[2013-07-03 17:06:13.280] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-03 17:06:13.343] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-03 17:06:13.345] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-03 17:06:21.103] [INFO] console - 10010
+[2013-07-03 17:14:11.755] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-03 17:14:12.326] [INFO] console - info: 'socket.io started'
+[2013-07-03 17:14:12.565] [ERROR] console -  Caught exception: Error: Cannot find module './GameAI.js'
+    at Function.Module._resolveFilename (module.js:338:15)
+    at Function.Module._load (module.js:280:25)
+    at Module.require (module.js:362:17)
+    at require (module.js:378:17)
+    at Object.<anonymous> (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/Models/Players.js:9:12)
+    at Module._compile (module.js:449:26)
+    at Object.Module._extensions..js (module.js:467:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:362:17)
+[2013-07-03 17:15:38.558] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-03 17:15:39.224] [INFO] console - info: 'socket.io started'
+[2013-07-03 17:15:39.407] [ERROR] console -  Caught exception: ReferenceError: uId is not defined
+    at Object.<anonymous> (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/Models/Players.js:11:23)
+    at Module._compile (module.js:449:26)
+    at Object.Module._extensions..js (module.js:467:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:362:17)
+    at require (module.js:378:17)
+    at Object.<anonymous> (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:11:15)
+    at Module._compile (module.js:449:26)
+    at Object.Module._extensions..js (module.js:467:10)
+[2013-07-03 17:16:07.753] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-03 17:16:08.367] [INFO] console - info: 'socket.io started'
+[2013-07-03 17:16:08.595] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-03 17:16:08.655] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-03 17:16:08.657] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-03 17:16:18.019] [ERROR] console -  Caught exception: ReferenceError: User is not defined
+    at new module.exports (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/Models/Players.js:16:14)
+    at Handler.entry (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:21:18)
+    at Service.handle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+[2013-07-03 17:17:23.272] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-03 17:17:23.871] [INFO] console - info: 'socket.io started'
+[2013-07-03 17:17:24.101] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-03 17:17:24.147] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-03 17:17:24.149] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-03 17:17:32.468] [ERROR] console -  Caught exception: ReferenceError: UserGameAI is not defined
+    at new module.exports (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/Models/Players.js:18:29)
+    at Handler.entry (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:21:18)
+    at Service.handle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+[2013-07-03 17:17:55.279] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-03 17:17:55.826] [INFO] console - info: 'socket.io started'
+[2013-07-03 17:17:56.063] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-03 17:17:56.121] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-03 17:17:56.123] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-03 17:18:03.249] [ERROR] console -  Caught exception: TypeError: Cannot call method 'AnalysisCardType' of undefined
+    at new module.exports (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/Models/Players.js:18:45)
+    at Handler.entry (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/app/servers/connector/handler/entryHandler.js:21:18)
+    at Service.handle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/handlerService.js:34:30)
+    at handle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:219:25)
+    at Service.beforeFilter.next (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Service.beforeFilter (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:232:3)
+    at pro.handle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/steve/Desktop/PC/Server/ProjectCard/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+[2013-07-03 17:18:53.434] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-07-03 17:18:54.228] [INFO] console - info: 'socket.io started'
+[2013-07-03 17:18:54.605] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-07-03 17:18:54.688] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-07-03 17:18:54.690] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-07-03 17:19:05.860] [INFO] console - AnalysisCardType
+[2013-07-03 17:19:05.860] [INFO] console - 10010

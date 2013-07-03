@@ -1,20 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d9edca3-0985-4b74-9463-251caf1073c3" name="Default" comment="" />
+    <list default="true" id="9d9edca3-0985-4b74-9463-251caf1073c3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game-server/Models/Card.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game-server/Models/Players.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game-server/Models/UserCards.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game-server/Models/Users.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game-server/Manager/Utility/Utility.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game-server/Models/Cards.js" afterPath="$PROJECT_DIR$/game-server/Models/Cards.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game-server/Manager/AI/GameAI.js" afterPath="$PROJECT_DIR$/game-server/Manager/AI/GameAI.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game-server/app.js" afterPath="$PROJECT_DIR$/game-server/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js" afterPath="$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game-server/logs/node-log-connector-server-1.log" afterPath="$PROJECT_DIR$/game-server/logs/node-log-connector-server-1.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game-server/logs/node-log-master-server-1.log" afterPath="$PROJECT_DIR$/game-server/logs/node-log-master-server-1.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="ProjectCard.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="$PROJECT_DIR$/web-server/public/js/lib/build/build.js" changelist="9d9edca3-0985-4b74-9463-251caf1073c3" time="1372569843556" ignored="false" />
     <file path="/servers.json" changelist="9d9edca3-0985-4b74-9463-251caf1073c3" time="1372574407198" ignored="false" />
     <file path="/starter.js" changelist="9d9edca3-0985-4b74-9463-251caf1073c3" time="1372585722411" ignored="false" />
-    <file path="/entryHandler.js" changelist="9d9edca3-0985-4b74-9463-251caf1073c3" time="1372748572954" ignored="false" />
+    <file path="/entryHandler.js" changelist="9d9edca3-0985-4b74-9463-251caf1073c3" time="1372842363490" ignored="false" />
     <file path="/AccountPlayer.js" changelist="9d9edca3-0985-4b74-9463-251caf1073c3" time="1372657509978" ignored="false" />
     <file path="/PlayerGameInfo.js" changelist="9d9edca3-0985-4b74-9463-251caf1073c3" time="1372646751290" ignored="false" />
     <file path="/GameEnum.js" changelist="9d9edca3-0985-4b74-9463-251caf1073c3" time="1372748193788" ignored="false" />
     <file path="/DBBasicManager.js" changelist="9d9edca3-0985-4b74-9463-251caf1073c3" time="1372651610852" ignored="false" />
-    <file path="/GameAI.js" changelist="9d9edca3-0985-4b74-9463-251caf1073c3" time="1372746648049" ignored="false" />
-    <file path="/Cards.js" changelist="9d9edca3-0985-4b74-9463-251caf1073c3" time="1372748521575" ignored="false" />
-    <file path="/Dummy.txt" changelist="9d9edca3-0985-4b74-9463-251caf1073c3" time="1372750131712" ignored="false" />
+    <file path="/GameAI.js" changelist="9d9edca3-0985-4b74-9463-251caf1073c3" time="1372843238922" ignored="false" />
+    <file path="/Cards.js" changelist="9d9edca3-0985-4b74-9463-251caf1073c3" time="1372866187998" ignored="false" />
+    <file path="/Dummy.txt" changelist="9d9edca3-0985-4b74-9463-251caf1073c3" time="1372860836644" ignored="false" />
+    <file path="/Users.js" changelist="9d9edca3-0985-4b74-9463-251caf1073c3" time="1372832378236" ignored="false" />
+    <file path="/Players.js" changelist="9d9edca3-0985-4b74-9463-251caf1073c3" time="1372843522286" ignored="false" />
+    <file path="/UserCards.js" changelist="9d9edca3-0985-4b74-9463-251caf1073c3" time="1372864563203" ignored="false" />
+    <file path="/Utility.js" changelist="9d9edca3-0985-4b74-9463-251caf1073c3" time="1372862559430" ignored="false" />
+    <file path="/Card.js" changelist="9d9edca3-0985-4b74-9463-251caf1073c3" time="1372865882677" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,28 +52,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PlayerGameInfo.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/game-server/Models/PlayerGameInfo.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="16" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DBBasicManager.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/game-server/Manager/DBAccess/DBBasicManager.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="48" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web-server/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="49" selection-start="847" selection-end="847" vertical-scroll-proportion="0.0">
+            <state line="29" column="29" selection-start="1030" selection-end="1030" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -64,7 +64,7 @@
       <file leaf-file-name="entryHandler.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="60" selection-start="1087" selection-end="1087" vertical-scroll-proportion="0.0">
+            <state line="20" column="34" selection-start="663" selection-end="668" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -73,7 +73,58 @@
       <file leaf-file-name="GameAI.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/game-server/Manager/AI/GameAI.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="90" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0">
+            <state line="14" column="64" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserCards.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/game-server/Models/UserCards.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="0" selection-start="656" selection-end="744" vertical-scroll-proportion="0.2872777">
+              <folding>
+                <element signature="e#0#155#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Card.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/game-server/Models/Card.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="21" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#156#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Utility.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/game-server/Manager/Utility/Utility.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="11" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#156#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Users.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/game-server/Models/Users.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="98" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Players.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/game-server/Models/Players.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="0" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -82,16 +133,16 @@
       <file leaf-file-name="Cards.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/game-server/Models/Cards.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="1" selection-start="269" selection-end="269" vertical-scroll-proportion="0.0">
+            <state line="14" column="43" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GameEnum.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="GameEnum.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/game-server/Models/GameEnum.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="81" selection-start="352" selection-end="352" vertical-scroll-proportion="0.305835">
+            <state line="14" column="53" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -115,20 +166,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/game-server/node_modules/pomelo/lib/master/starter.js" />
-        <option value="$PROJECT_DIR$/game-server/helps/DBHelp.js" />
-        <option value="$PROJECT_DIR$/game-server/helps/dbHelp.js" />
         <option value="$PROJECT_DIR$/game-server/config/servers.json" />
         <option value="$PROJECT_DIR$/game-server/Models/PlayerGameInfo.js" />
         <option value="$PROJECT_DIR$/game-server/Manager/DBAccess.js" />
         <option value="$PROJECT_DIR$/game-server/Manager/DBAccess/DBBasicManager.js" />
         <option value="$PROJECT_DIR$/game-server/Models/AccountPlayer.js" />
-        <option value="$PROJECT_DIR$/game-server/app.js" />
         <option value="$PROJECT_DIR$/game-server/Models/Suit.js" />
         <option value="$PROJECT_DIR$/game-server/Models/GameEnum.js" />
-        <option value="$PROJECT_DIR$/game-server/Models/Cards.js" />
+        <option value="$PROJECT_DIR$/game-server/app.js" />
         <option value="$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js" />
         <option value="$PROJECT_DIR$/game-server/Manager/AI/GameAI.js" />
+        <option value="$PROJECT_DIR$/game-server/Models/Users.js" />
+        <option value="$PROJECT_DIR$/game-server/Models/UserCards.js" />
+        <option value="$PROJECT_DIR$/game-server/Manager/Utility/Utility.js" />
+        <option value="$PROJECT_DIR$/game-server/Models/Players.js" />
+        <option value="$PROJECT_DIR$/game-server/Models/Card.js" />
+        <option value="$PROJECT_DIR$/game-server/Models/Cards.js" />
       </list>
     </option>
   </component>
@@ -164,6 +217,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -242,6 +296,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectCard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectCard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game-server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Models" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -264,7 +336,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DBAccess" />
+              <option name="myItemId" value="Utility" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -285,44 +357,9 @@
               <option name="myItemId" value="Manager" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProjectCard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProjectCard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="game-server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="servers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="connector" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="handler" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -336,7 +373,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.Game">
+  <component name="RunManager" selected="Node.js Remote Debug.debug">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -409,11 +446,11 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24558927" sideWeight="0.6713555" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.414791" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24558927" sideWeight="0.68414325" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41432226" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3286445" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3167702" sideWeight="0.9971771" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32736573" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31585678" sideWeight="0.9971771" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -483,112 +520,113 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js</url>
-          <line>26</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="24" />
+      <option name="time" value="26" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/game-server/Models/GameEnum.js">
+    <entry file="file://$PROJECT_DIR$/game-server/node_modules/pomelo/bin/pomelo">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="7" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="5" column="13" selection-start="66" selection-end="66" vertical-scroll-proportion="-0.035971224" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/config/servers.json">
+    <entry file="file://$PROJECT_DIR$/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="26" selection-start="331" selection-end="331" vertical-scroll-proportion="0.0" />
+        <state line="23" column="47" selection-start="991" selection-end="991" vertical-scroll-proportion="-2.2790697" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/node_modules/pomelo/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/tmp/app.js">
+    <entry file="file://$PROJECT_DIR$/game-server/node_modules/pomelo/node_modules/pomelo-monitor/lib/processMonitor.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10468" column="39" selection-start="290482" selection-end="290482" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="12" column="33" selection-start="227" selection-end="227" vertical-scroll-proportion="-2.0581396" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/app.js">
+    <entry file="file://$PROJECT_DIR$/game-server/node_modules/pomelo/node_modules/pomelo-monitor/bin/monitor">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="68" selection-start="555" selection-end="555" vertical-scroll-proportion="0.51861703" />
+        <state line="4" column="21" selection-start="51" selection-end="51" vertical-scroll-proportion="0.13953489" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/node_modules/pomelo/lib/pomelo.js">
+    <entry file="file://$PROJECT_DIR$/game-server/node_modules/pomelo/node_modules/pomelo-monitor/lib/systemMonitor.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="48" selection-start="663" selection-end="675" vertical-scroll-proportion="0.019946808" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/node_modules/mongodb/db.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="470" column="0" selection-start="21567" selection-end="21567" vertical-scroll-proportion="0.020297699" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/node_modules/mongodb/cursor.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="309" column="17" selection-start="12470" selection-end="12480" vertical-scroll-proportion="0.020297699" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/Models/AccountPlayer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="31" selection-start="440" selection-end="440" vertical-scroll-proportion="0.31914893" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-server/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="49" selection-start="847" selection-end="847" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/node_modules/mongodb/collection.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="68" selection-start="1888" selection-end="1888" vertical-scroll-proportion="0.3856563" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/Models/PlayerGameInfo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="16" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.9651163" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/game-server/Manager/DBAccess/DBBasicManager.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="48" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0">
+        <state line="20" column="57" selection-start="716" selection-end="716" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-server/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="29" selection-start="1030" selection-end="1030" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="60" selection-start="1087" selection-end="1087" vertical-scroll-proportion="0.0">
+        <state line="20" column="34" selection-start="663" selection-end="668" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/game-server/Manager/AI/GameAI.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="90" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/Models/Cards.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="1" selection-start="269" selection-end="269" vertical-scroll-proportion="0.0">
+        <state line="14" column="64" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/game-server/Models/GameEnum.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="81" selection-start="352" selection-end="352" vertical-scroll-proportion="0.305835">
+        <state line="14" column="53" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/Manager/Utility/Utility.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="11" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#156#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/Models/Users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="98" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/Models/Players.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/Models/Cards.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="43" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/Models/Card.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="21" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#156#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/Models/UserCards.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="656" selection-end="744" vertical-scroll-proportion="0.2872777">
+          <folding>
+            <element signature="e#0#155#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
