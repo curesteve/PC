@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d9edca3-0985-4b74-9463-251caf1073c3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game-server/Models/Card.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game-server/Models/Players.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game-server/Models/UserCards.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game-server/Models/Users.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game-server/Manager/Utility/Utility.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game-server/Models/Cards.js" afterPath="$PROJECT_DIR$/game-server/Models/Cards.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game-server/Manager/AI/GameAI.js" afterPath="$PROJECT_DIR$/game-server/Manager/AI/GameAI.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game-server/app.js" afterPath="$PROJECT_DIR$/game-server/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js" afterPath="$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game-server/logs/node-log-connector-server-1.log" afterPath="$PROJECT_DIR$/game-server/logs/node-log-connector-server-1.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game-server/logs/node-log-master-server-1.log" afterPath="$PROJECT_DIR$/game-server/logs/node-log-master-server-1.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="9d9edca3-0985-4b74-9463-251caf1073c3" name="Default" comment="" />
     <ignored path="ProjectCard.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="$PROJECT_DIR$/web-server/public/js/lib/build/build.js" changelist="9d9edca3-0985-4b74-9463-251caf1073c3" time="1372569843556" ignored="false" />
@@ -82,7 +69,7 @@
       <file leaf-file-name="UserCards.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/game-server/Models/UserCards.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="0" selection-start="656" selection-end="744" vertical-scroll-proportion="0.2872777">
+            <state line="26" column="68" selection-start="865" selection-end="865" vertical-scroll-proportion="0.41039672">
               <folding>
                 <element signature="e#0#155#0" expanded="false" />
               </folding>
@@ -623,7 +610,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/game-server/Models/UserCards.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="656" selection-end="744" vertical-scroll-proportion="0.2872777">
+        <state line="26" column="68" selection-start="865" selection-end="865" vertical-scroll-proportion="0.41039672">
           <folding>
             <element signature="e#0#155#0" expanded="false" />
           </folding>
